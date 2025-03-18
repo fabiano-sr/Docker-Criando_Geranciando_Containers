@@ -7,7 +7,7 @@
             <img alt="Static Badge" src="https://img.shields.io/badge/ALURA-lightgrey?label=CURSO%3A&labelColor=grey">
     </a>
     &nbsp;&nbsp;&nbsp; <!-- Espaços extras -->
-    <img alt="Static Badge" src="https://img.shields.io/badge/10%20HORAS-lightgrey?label=CARGA%20HORÁRIA%3A&labelColor=grey">
+    <img alt="Static Badge" src="https://img.shields.io/badge/10%20HORAS-lightgrey?label=CARGA%20HOR%C3%81RIA%3A&labelColor=grey">
 </div>
     <li style="display: flex; align-items: flex-start; gap: 4px;">
         <span>🗸</span>
